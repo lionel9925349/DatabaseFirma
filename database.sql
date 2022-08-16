@@ -37,7 +37,7 @@ create table reisen (
 INSERT INTO abteilung(Abtname, Abtnr) VALUES('Softwareentwicklung',1);
 INSERT INTO abteilung(Abtname, Abtnr) VALUES('webentwicklung',2);
 INSERT INTO abteilung(Abtname, Abtnr) VALUES('backendentwicklung',3);
-
+// hier INSERT
 
 INSERT INTO mitarbeiter(Mname,Abtnr,Gehalt) VALUES ('lionel',2,300);
 INSERT INTO mitarbeiter(Mname,Abtnr,Gehalt) VALUES ('noumi',1,325);
